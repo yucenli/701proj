@@ -1,0 +1,1 @@
+enum Dir{UP,DOWN};
